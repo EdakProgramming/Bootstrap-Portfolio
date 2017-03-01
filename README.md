@@ -1,2 +1,3 @@
 # Bootstrap-Portfolio
-Bootstrap portfolio
+This portfolio will implement bootstrap into my bio
+
